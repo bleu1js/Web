@@ -1,15 +1,11 @@
-
 <!DOCTYPE html>
-<html>
+<html lang="ar">
 <head>
-  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
-  <link rel="stylesheet" href="styles/style.css"/>
-
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>تصغير الصورة</title>
 </head>
 <body>
-  <a href="https://discord.com/invite/hAyveBFb">server discord</a>
-  <a href="https://youtube.com/@ayoub_kobra_ff?si=nKrJauUqR_Fr1dXa">youtube chanell</a>
-  
-  <img src="content://media/external/downloads/17615">
+    <img src="Picsart_24-05-16_22-10-49-786.png" width="2" alt="صورة بحجم 2">
 </body>
 </html>
