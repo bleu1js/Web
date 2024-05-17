@@ -7,8 +7,11 @@
     <style>
         body{
             background-image: url('Picsart_24-05-16_22-10-49-786.png');
+            background-size: cover;
             }
         </style>
+        <a download href="Picsart_24-05-16_22-10-49-786.png">عبز و خليها تطبع و اذا كشما صرا خاطيني</a>
+        <a href="Picsart_24-05-16_22-10-49-786.png">لي يحب يشوف التصويرها يكبس🙂</a>
  
         
 </head>
