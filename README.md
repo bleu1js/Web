@@ -5,6 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>www.m9al.com</title>
     <style>
+        body{
+            background-image: url('Picsart_24-05-16_22-10-49-786.png');
+            }
+        </style>
+    <style>
         body {
             font-family: Arial, sans-serif;
             margin: 0;
