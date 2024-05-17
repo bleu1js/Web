@@ -6,6 +6,15 @@
     <title>تصغير الصورة</title>
 </head>
 <body>
-    <img src="Picsart_24-05-16_22-10-49-786.png" width="2" alt="صورة بحجم 2">
+    <header>
+        <a href="#project">project</a>
+        <a href="#">gppd game</a>
+    </header>
+    <style>
+        header{
+            background-color: blue;
+        }
+    </style>
+   
 </body>
 </html>
