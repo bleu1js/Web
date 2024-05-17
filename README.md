@@ -6,7 +6,7 @@
     <title>www.m9al.com</title>
     <style>
         body{
-            background-image: url('Picsart_24-05-16_22-10-49-786.png');
+            background-image: url('تنزيل - ٢٠٢٤-٠٥-١٨T٠٠١٩٤٦.٧٥٠.jpeg');
             background-size: cover;
             }
         </style>
