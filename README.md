@@ -10,8 +10,7 @@
             background-size: cover;
             }
         </style>
-        <a download href="Picsart_24-05-16_22-10-49-786.png">عبز و خليها تطبع و اذا كشما صرا خاطيني</a>
-        <a href="Picsart_24-05-16_22-10-49-786.png">لي يحب يشوف التصويرها يكبس🙂</a>
+        <h2>Waleed is a standout player in PUBG Mobile, known for his high skills and innovative strategies that make him a formidable competitor in every match. He excels in quick thinking and decisive action during critical moments, helping him to outlast and outperform his opponents. Often referred to as "The Pro" by his peers, Waleed's exceptional performance and competitive spirit set him apart. Besides his in-game prowess, Waleed is also active in the PUBG community, sharing his tips and strategies with other players on social media platforms.</h2>
  
         
 </head>
