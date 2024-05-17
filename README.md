@@ -9,69 +9,8 @@
             background-image: url('Picsart_24-05-16_22-10-49-786.png');
             }
         </style>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-            color: #333;
-        }
-        .header {
-            background-color: #000;
-            color: #fff;
-            padding: 20px 0;
-            text-align: center;
-        }
-        .header h1 {
-            margin: 0;
-            font-size: 36px;
-        }
-        .container {
-            width: 80%;
-            margin: 20px auto;
-        }
-        .about, .skills, .contact {
-            background-color: #fff;
-            padding: 20px;
-            margin-bottom: 20px;
-            border-radius: 5px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        .about h2, .skills h2, .contact h2 {
-            font-size: 28px;
-            margin-bottom: 10px;
-        }
-        .about p, .contact p {
-            line-height: 1.6;
-            margin: 10px 0;
-        }
-        .skills ul {
-            list-style-type: none;
-            padding: 0;
-        }
-        .skills ul li {
-            background-color: #f4f4f4;
-            padding: 10px;
-            margin-bottom: 10px;
-            border-radius: 5px;
-        }
-        .about img, .skills img, .contact img {
-            max-width: 100%;
-            height: auto;
-            border-radius: 5px;
-            margin-bottom: 20px;
-        }
-        .footer {
-            background-color: #000;
-            color: #fff;
-            text-align: center;
-            padding: 10px 0;
-            position: fixed;
-            width: 100%;
-            bottom: 0;
-        }
-    </style>
+ 
+        
 </head>
 <body>
     <div class="header">
