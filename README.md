@@ -8,6 +8,8 @@
     <style>
         header{
             background-color: blue;
+            background-size: cover;
+            background-position: centre;
         }
     </style>
     <meta charset="UTF-8">
